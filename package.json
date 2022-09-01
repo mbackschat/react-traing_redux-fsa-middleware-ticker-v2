@@ -1,0 +1,33 @@
+{
+  "name": "redux-fsa-middleware-ticker-v2",
+  "version": "1.0.0",
+  "description": "Example App: Bitcoin price ticker",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@redux-devtools/extension": "3.2.3",
+    "@types/react-dom": "18.0.6",
+    "@types/react-redux": "7.1.24",
+    "@types/redux": "3.6.31",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "8.0.2",
+    "react-scripts": "5.0.1",
+    "redux": "4.2.0",
+    "redux-thunk": "2.4.1",
+    "typescript-fsa": "3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
